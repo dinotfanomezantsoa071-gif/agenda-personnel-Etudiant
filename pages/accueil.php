@@ -35,6 +35,23 @@
                 </a>
             <?php endif; ?>
         </div>
+        
+        <div class="content0">
+            <div class="sun">
+                <img src="assets/img/esmia.jpg" alt="image" class="esmia"> 
+            </div>
+            <div class="orbit earth">
+                <div class="globe earth">
+                    <i class="fas fa-plane"></i>
+                    <div class="orbit moon">
+                        <div class="globe moon">
+                            <i class="fas fa-rocket"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>     
+        </div>
+
         <div class="col-lg-6 text-center animate__animated animate__fadeInRight" style="animation-duration: 0.6s;">
             <!-- <img src="assets/img/calendar.svg" alt="Agenda" class="img-fluid floating" style="max-height: 300px;"> -->
         </div>
@@ -54,6 +71,8 @@
                 <h3 class="h5 mb-3">Gestion des tâches</h3>
                 <p class="mb-0">Créez, organisez et suivez vos tâches par priorité et catégorie.</p>
             </div>
+
+             
         </div>
         
         <div class="col-md-4 mb-4">
